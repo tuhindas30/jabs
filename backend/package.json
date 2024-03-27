@@ -20,7 +20,7 @@
     "argon2": "^0.27.0",
     "busboy": "^0.3.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "express-jwt": "^6.0.0",
     "express-validator": "^6.6.1",
     "google-auth-library": "^6.1.4",
